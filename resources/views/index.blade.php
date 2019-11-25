@@ -13,7 +13,7 @@
        @endphp
        @include('blocks.breadcrumbs.index', ['breadcrumbs' => $breadcrumbs])
    </div>
-   @include('callback::index')
+
 @endsection
 
 
